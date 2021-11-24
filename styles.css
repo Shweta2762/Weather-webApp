@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(0, 0, 0, 0.151);
+}
+#bodyy{
+    background-color:rgba(0, 140, 255, 0.274);
+    color: rgb(156, 18, 133);
+    text-align: center;
+    margin: 0.5in 2.5in 0;
+}
+h1{
+    font-size: 0.5in;
+    text-align: center;
+    color: rgb(156, 18, 133);
+}
+.carousel-control-prev{
+    margin-top: 1.5in;
+    margin-bottom: 1.5in;
+    background-color: rgb(65, 53, 77);
+
+}
+.carousel-control-next{
+    margin-top: 1.5in;
+    margin-bottom: 1.5in;
+    background-color: rgb(65, 53, 77);
+
+}
+#aboutt{text-align: center;}
